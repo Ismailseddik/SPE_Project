@@ -1,0 +1,182 @@
+2024-12-09 19:36:40,270 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: Connected by ('127.0.0.1', 55620)
+2024-12-09 19:36:40,271 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,272 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: Metadata acknowledged. File name: dummy_file_0.pptx, File size: 35407
+2024-12-09 19:36:40,288 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,288 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,288 [DEBUG] Received 3072 bytes. Total received: 8192 bytes.
+2024-12-09 19:36:40,289 [DEBUG] Received 1024 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,290 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,290 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,291 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,291 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,291 [DEBUG] Received 3072 bytes. Total received: 28672 bytes.
+2024-12-09 19:36:40,292 [DEBUG] Received 4096 bytes. Total received: 32768 bytes.
+2024-12-09 19:36:40,292 [DEBUG] Received 2639 bytes. Total received: 35407 bytes.
+2024-12-09 19:36:40,293 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: File transfer time: 0.0199 seconds
+2024-12-09 19:36:40,294 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: Detected file type: powerpoint
+2024-12-09 19:36:40,325 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: File conversion time: 0.0307 seconds
+2024-12-09 19:36:40,333 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: Connected by ('127.0.0.1', 55621)
+2024-12-09 19:36:40,334 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,334 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: Metadata acknowledged. File name: dummy_file_1.pptx, File size: 35407
+2024-12-09 19:36:40,341 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: File response time: 0.0150 seconds
+2024-12-09 19:36:40,342 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: Converted file converted_files\127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8_dummy_file_0.pdf sent successfully.
+2024-12-09 19:36:40,343 [INFO] Session 127.0.0.1_55620_84043e56-c0ab-476a-add2-81e91bdc2ef8: Connection closed.
+2024-12-09 19:36:40,351 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,352 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,353 [DEBUG] Received 4096 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,353 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,353 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,354 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,354 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,355 [DEBUG] Received 4096 bytes. Total received: 29696 bytes.
+2024-12-09 19:36:40,355 [DEBUG] Received 4096 bytes. Total received: 33792 bytes.
+2024-12-09 19:36:40,355 [DEBUG] Received 1615 bytes. Total received: 35407 bytes.
+2024-12-09 19:36:40,356 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: File transfer time: 0.0209 seconds
+2024-12-09 19:36:40,357 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: Detected file type: powerpoint
+2024-12-09 19:36:40,395 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: File conversion time: 0.0383 seconds
+2024-12-09 19:36:40,397 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: File response time: 0.0016 seconds
+2024-12-09 19:36:40,397 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: Converted file converted_files\127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33_dummy_file_1.pdf sent successfully.
+2024-12-09 19:36:40,398 [INFO] Session 127.0.0.1_55621_8e367530-fc3f-4a34-ba33-04d120e82f33: Connection closed.
+2024-12-09 19:36:40,409 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: Connected by ('127.0.0.1', 55622)
+2024-12-09 19:36:40,410 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,411 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: Metadata acknowledged. File name: dummy_file_2.docx, File size: 36780
+2024-12-09 19:36:40,431 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,431 [DEBUG] Received 3072 bytes. Total received: 4096 bytes.
+2024-12-09 19:36:40,432 [DEBUG] Received 4096 bytes. Total received: 8192 bytes.
+2024-12-09 19:36:40,432 [DEBUG] Received 4096 bytes. Total received: 12288 bytes.
+2024-12-09 19:36:40,433 [DEBUG] Received 4096 bytes. Total received: 16384 bytes.
+2024-12-09 19:36:40,433 [DEBUG] Received 4096 bytes. Total received: 20480 bytes.
+2024-12-09 19:36:40,434 [DEBUG] Received 4096 bytes. Total received: 24576 bytes.
+2024-12-09 19:36:40,434 [DEBUG] Received 4096 bytes. Total received: 28672 bytes.
+2024-12-09 19:36:40,435 [DEBUG] Received 4096 bytes. Total received: 32768 bytes.
+2024-12-09 19:36:40,435 [DEBUG] Received 4012 bytes. Total received: 36780 bytes.
+2024-12-09 19:36:40,436 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: File transfer time: 0.0209 seconds
+2024-12-09 19:36:40,436 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: Detected file type: word
+2024-12-09 19:36:40,482 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: Connected by ('127.0.0.1', 55623)
+2024-12-09 19:36:40,483 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,484 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: Metadata acknowledged. File name: dummy_file_3.pptx, File size: 35407
+2024-12-09 19:36:40,488 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: File conversion time: 0.0515 seconds
+2024-12-09 19:36:40,502 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,502 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,502 [DEBUG] Received 4096 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,503 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,503 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,504 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,504 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,505 [DEBUG] Received 4096 bytes. Total received: 29696 bytes.
+2024-12-09 19:36:40,505 [DEBUG] Received 4096 bytes. Total received: 33792 bytes.
+2024-12-09 19:36:40,505 [DEBUG] Received 1615 bytes. Total received: 35407 bytes.
+2024-12-09 19:36:40,506 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: File transfer time: 0.0209 seconds
+2024-12-09 19:36:40,507 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: Detected file type: powerpoint
+2024-12-09 19:36:40,508 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: File response time: 0.0175 seconds
+2024-12-09 19:36:40,511 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: Converted file converted_files\127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0_dummy_file_2.pdf sent successfully.
+2024-12-09 19:36:40,513 [INFO] Session 127.0.0.1_55622_369534e0-96b8-4f85-8609-785f72e447d0: Connection closed.
+2024-12-09 19:36:40,547 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: File conversion time: 0.0394 seconds
+2024-12-09 19:36:40,549 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: File response time: 0.0020 seconds
+2024-12-09 19:36:40,550 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: Converted file converted_files\127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8_dummy_file_3.pdf sent successfully.
+2024-12-09 19:36:40,551 [INFO] Session 127.0.0.1_55623_3f01572b-6c01-47ee-a52e-42720cb538b8: Connection closed.
+2024-12-09 19:36:40,560 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: Connected by ('127.0.0.1', 55624)
+2024-12-09 19:36:40,560 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,561 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: Metadata acknowledged. File name: dummy_file_4.pptx, File size: 35407
+2024-12-09 19:36:40,576 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,576 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,577 [DEBUG] Received 4096 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,577 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,578 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,578 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,578 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,579 [DEBUG] Received 4096 bytes. Total received: 29696 bytes.
+2024-12-09 19:36:40,579 [DEBUG] Received 4096 bytes. Total received: 33792 bytes.
+2024-12-09 19:36:40,579 [DEBUG] Received 1615 bytes. Total received: 35407 bytes.
+2024-12-09 19:36:40,580 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: File transfer time: 0.0160 seconds
+2024-12-09 19:36:40,580 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: Detected file type: powerpoint
+2024-12-09 19:36:40,616 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: File conversion time: 0.0361 seconds
+2024-12-09 19:36:40,618 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: File response time: 0.0010 seconds
+2024-12-09 19:36:40,619 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: Converted file converted_files\127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23_dummy_file_4.pdf sent successfully.
+2024-12-09 19:36:40,620 [INFO] Session 127.0.0.1_55624_3d68da5b-bf43-4e14-acbf-2cee460d4f23: Connection closed.
+2024-12-09 19:36:40,632 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: Connected by ('127.0.0.1', 55625)
+2024-12-09 19:36:40,633 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,633 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: Metadata acknowledged. File name: dummy_file_5.docx, File size: 36780
+2024-12-09 19:36:40,651 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,651 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,652 [DEBUG] Received 4096 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,652 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,653 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,653 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,653 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,654 [DEBUG] Received 4096 bytes. Total received: 29696 bytes.
+2024-12-09 19:36:40,654 [DEBUG] Received 4096 bytes. Total received: 33792 bytes.
+2024-12-09 19:36:40,654 [DEBUG] Received 2988 bytes. Total received: 36780 bytes.
+2024-12-09 19:36:40,655 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: File transfer time: 0.0209 seconds
+2024-12-09 19:36:40,656 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: Detected file type: word
+2024-12-09 19:36:40,676 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: Connected by ('127.0.0.1', 55626)
+2024-12-09 19:36:40,678 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: Metadata reception time: 0.0001 seconds
+2024-12-09 19:36:40,681 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: Metadata acknowledged. File name: dummy_file_6.xlsx, File size: 6734
+2024-12-09 19:36:40,697 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,698 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,699 [DEBUG] Received 1614 bytes. Total received: 6734 bytes.
+2024-12-09 19:36:40,699 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: File transfer time: 0.0160 seconds
+2024-12-09 19:36:40,700 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: Detected file type: excel
+2024-12-09 19:36:40,716 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: File conversion time: 0.0604 seconds
+2024-12-09 19:36:40,725 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: File response time: 0.0071 seconds
+2024-12-09 19:36:40,728 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: Converted file converted_files\127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747_dummy_file_5.pdf sent successfully.
+2024-12-09 19:36:40,729 [INFO] Session 127.0.0.1_55625_6c35df39-aa2c-41fa-8130-c353a47fc747: Connection closed.
+2024-12-09 19:36:40,759 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: Connected by ('127.0.0.1', 55627)
+2024-12-09 19:36:40,760 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,761 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: Metadata acknowledged. File name: dummy_file_7.docx, File size: 36780
+2024-12-09 19:36:40,778 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,778 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,779 [DEBUG] Received 4096 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,780 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,781 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,781 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,782 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,782 [DEBUG] Received 4096 bytes. Total received: 29696 bytes.
+2024-12-09 19:36:40,784 [DEBUG] Received 4096 bytes. Total received: 33792 bytes.
+2024-12-09 19:36:40,785 [DEBUG] Received 2988 bytes. Total received: 36780 bytes.
+2024-12-09 19:36:40,785 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: File transfer time: 0.0229 seconds
+2024-12-09 19:36:40,786 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: Detected file type: word
+2024-12-09 19:36:40,843 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: Connected by ('127.0.0.1', 55628)
+2024-12-09 19:36:40,847 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:40,852 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: File conversion time: 0.0662 seconds
+2024-12-09 19:36:40,853 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: Metadata acknowledged. File name: dummy_file_8.docx, File size: 36780
+2024-12-09 19:36:40,861 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: File response time: 0.0034 seconds
+2024-12-09 19:36:40,863 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: Converted file converted_files\127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c_dummy_file_7.pdf sent successfully.
+2024-12-09 19:36:40,864 [INFO] Session 127.0.0.1_55627_0f8e6b63-cc0d-422e-aaeb-a4fb91a53b6c: Connection closed.
+2024-12-09 19:36:40,882 [DEBUG] Received 1024 bytes. Total received: 1024 bytes.
+2024-12-09 19:36:40,882 [DEBUG] Received 4096 bytes. Total received: 5120 bytes.
+2024-12-09 19:36:40,883 [DEBUG] Received 4096 bytes. Total received: 9216 bytes.
+2024-12-09 19:36:40,883 [DEBUG] Received 4096 bytes. Total received: 13312 bytes.
+2024-12-09 19:36:40,884 [DEBUG] Received 4096 bytes. Total received: 17408 bytes.
+2024-12-09 19:36:40,885 [DEBUG] Received 4096 bytes. Total received: 21504 bytes.
+2024-12-09 19:36:40,887 [DEBUG] Received 4096 bytes. Total received: 25600 bytes.
+2024-12-09 19:36:40,888 [DEBUG] Received 4096 bytes. Total received: 29696 bytes.
+2024-12-09 19:36:40,888 [DEBUG] Received 4096 bytes. Total received: 33792 bytes.
+2024-12-09 19:36:40,889 [DEBUG] Received 2988 bytes. Total received: 36780 bytes.
+2024-12-09 19:36:40,890 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: File transfer time: 0.0329 seconds
+2024-12-09 19:36:40,891 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: Detected file type: word
+2024-12-09 19:36:40,952 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: File conversion time: 0.0608 seconds
+2024-12-09 19:36:40,958 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: File response time: 0.0033 seconds
+2024-12-09 19:36:40,959 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: Converted file converted_files\127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460_dummy_file_8.pdf sent successfully.
+2024-12-09 19:36:40,961 [INFO] Session 127.0.0.1_55628_2f9b67ff-2b35-4d88-9c4f-f557faeae460: Connection closed.
+2024-12-09 19:36:41,052 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: Connected by ('127.0.0.1', 55629)
+2024-12-09 19:36:41,054 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: Metadata reception time: 0.0000 seconds
+2024-12-09 19:36:41,055 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: Metadata acknowledged. File name: dummy_file_9.pptx, File size: 35407
+2024-12-09 19:36:41,098 [DEBUG] Received 4096 bytes. Total received: 4096 bytes.
+2024-12-09 19:36:41,100 [DEBUG] Received 4096 bytes. Total received: 8192 bytes.
+2024-12-09 19:36:41,100 [DEBUG] Received 4096 bytes. Total received: 12288 bytes.
+2024-12-09 19:36:41,101 [DEBUG] Received 4096 bytes. Total received: 16384 bytes.
+2024-12-09 19:36:41,101 [DEBUG] Received 4096 bytes. Total received: 20480 bytes.
+2024-12-09 19:36:41,102 [DEBUG] Received 4096 bytes. Total received: 24576 bytes.
+2024-12-09 19:36:41,104 [DEBUG] Received 4096 bytes. Total received: 28672 bytes.
+2024-12-09 19:36:41,105 [DEBUG] Received 4096 bytes. Total received: 32768 bytes.
+2024-12-09 19:36:41,107 [DEBUG] Received 2639 bytes. Total received: 35407 bytes.
+2024-12-09 19:36:41,111 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: File transfer time: 0.0140 seconds
+2024-12-09 19:36:41,112 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: Detected file type: powerpoint
+2024-12-09 19:36:41,155 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: File conversion time: 0.0428 seconds
+2024-12-09 19:36:41,171 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: File response time: 0.0155 seconds
+2024-12-09 19:36:41,172 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: Converted file converted_files\127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2_dummy_file_9.pdf sent successfully.
+2024-12-09 19:36:41,173 [INFO] Session 127.0.0.1_55629_d5d03368-85e0-43c6-8006-38692fbecee2: Connection closed.
+2024-12-09 19:36:41,411 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: File conversion time: 0.7108 seconds
+2024-12-09 19:36:41,429 [ERROR] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: Exception occurred: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-12-09 19:36:41,430 [INFO] Session 127.0.0.1_55626_a819c18b-cabd-4570-b583-9100a91c22be: Connection closed.
